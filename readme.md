@@ -43,6 +43,11 @@ Install the required packages using:
 ```bash
 pip install -r requirements.txt
 
+---
+
+## if notebook is not open you can check it from kaggle
+https://www.kaggle.com/code/youssefelzahar/medical-chatbot
+  
 📬 Contact
 For questions or collaborations, feel free to reach out.
 gmail:youssefalzahar12@gmail.com
